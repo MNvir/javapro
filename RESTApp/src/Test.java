@@ -1,4 +1,6 @@
 
 public class Test {
-	//Test class
+	public static void main(String[] args) {
+		System.out.println("Making Change in Test");
+	}
 }
